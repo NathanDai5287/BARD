@@ -1,0 +1,1 @@
+context = 'We are making an app where users can input the text of a book and get visual depictions, real-time narration, and live music throughout each chapter of the book to give a new visual experience to readers.'
